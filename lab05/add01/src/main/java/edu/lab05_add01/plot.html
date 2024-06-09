@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Function Plot</title>
+    <!-- Підключення plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="plot"></div>
+    <script>
+        // JavaScript-код для побудови графіку
+        var x = [], y = [];
+        for (var i = 0; i < 10; i++) {
+            x.push(i);
+            y.push(Math.sin(i)); // Функція, яку будемо відображати (sin(x) в даному випадку)
+        }
+
+        var data = [{
+            x: x,
+            y: y,
+            type: 'scatter'
+        }];
+
+        Plotly.newPlot('plot', data);
+    </script>
+</body>
+</html>
