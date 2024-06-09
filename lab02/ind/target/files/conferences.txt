@@ -1,0 +1,10 @@
+Conference: FutureAI (Paris)
+Meetings:
+- Date: 2024-05-20, Topic: AI in Healthcare, Participants: 50
+- Date: 2024-05-21, Topic: Machine Learning Applications, Participants: 70
+
+Conference: Data Analisys (Huston)
+Meetings:
+- Date: 2024-06-11, Topic: Blockchain Conference, Participants: 100
+- Date: 2024-06-10, Topic: Data Science Summit, Participants: 80
+

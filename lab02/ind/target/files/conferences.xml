@@ -1,0 +1,34 @@
+<list>
+  <edu.lab02__ind.ConferenceWithMeetingsListUsingStreams>
+    <name>FutureAI</name>
+    <place>Paris</place>
+    <meetingsList>
+      <meeting>
+        <date>2024-05-20</date>
+        <topic>AI in Healthcare</topic>
+        <numberOfParticipants>50</numberOfParticipants>
+      </meeting>
+      <meeting>
+        <date>2024-05-21</date>
+        <topic>Machine Learning Applications</topic>
+        <numberOfParticipants>70</numberOfParticipants>
+      </meeting>
+    </meetingsList>
+  </edu.lab02__ind.ConferenceWithMeetingsListUsingStreams>
+  <edu.lab02__ind.ConferenceWithMeetingsListUsingStreams>
+    <name>Data Analisys</name>
+    <place>Huston</place>
+    <meetingsList>
+      <meeting>
+        <date>2024-06-10</date>
+        <topic>Data Science Summit</topic>
+        <numberOfParticipants>80</numberOfParticipants>
+      </meeting>
+      <meeting>
+        <date>2024-06-11</date>
+        <topic>Blockchain Conference</topic>
+        <numberOfParticipants>100</numberOfParticipants>
+      </meeting>
+    </meetingsList>
+  </edu.lab02__ind.ConferenceWithMeetingsListUsingStreams>
+</list>

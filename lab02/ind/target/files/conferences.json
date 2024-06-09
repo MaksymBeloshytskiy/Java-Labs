@@ -1,0 +1,34 @@
+[
+  {
+    "meetingsList": [
+      {
+        "date": "2024-05-20",
+        "topic": "AI in Healthcare",
+        "numberOfParticipants": 50
+      },
+      {
+        "date": "2024-05-21",
+        "topic": "Machine Learning Applications",
+        "numberOfParticipants": 70
+      }
+    ],
+    "name": "FutureAI",
+    "place": "Paris"
+  },
+  {
+    "meetingsList": [
+      {
+        "date": "2024-06-10",
+        "topic": "Data Science Summit",
+        "numberOfParticipants": 80
+      },
+      {
+        "date": "2024-06-11",
+        "topic": "Blockchain Conference",
+        "numberOfParticipants": 100
+      }
+    ],
+    "name": "Data Analisys",
+    "place": "Huston"
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <group>CS101</group>
+    </student>
+    <student>
+        <id>2</id>
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+        <group>CS101</group>
+    </student>
+    <student>
+        <id>3</id>
+        <firstName>Michael</firstName>
+        <lastName>Johnson</lastName>
+        <group>CS102</group>
+    </student>
+</students>
