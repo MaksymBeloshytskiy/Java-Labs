@@ -1,0 +1,131 @@
+<list>
+  <edu.lab03__ind.Conference>
+    <name class="javafx.beans.property.SimpleStringProperty">
+      <value>AI Importance</value>
+      <valid>true</valid>
+      <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+        <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+        <listener class="javafx.beans.WeakInvalidationListener">
+          <ref>
+            <referent class="null"/>
+            <queue class="java.lang.ref.ReferenceQueue$Null">
+              <lock/>
+              <queueLength>0</queueLength>
+            </queue>
+          </ref>
+        </listener>
+      </helper>
+      <name></name>
+    </name>
+    <location class="javafx.beans.property.SimpleStringProperty">
+      <value>France, Paris</value>
+      <valid>true</valid>
+      <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+        <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+        <listener class="javafx.beans.WeakInvalidationListener">
+          <ref>
+            <referent class="null"/>
+            <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../name/helper/listener/ref/queue"/>
+          </ref>
+        </listener>
+      </helper>
+      <name></name>
+    </location>
+    <meetings>
+      <edu.lab03__ind.Meeting>
+        <topic class="javafx.beans.property.SimpleStringProperty">
+          <value>AI today&apos;s technologies</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../name/helper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </topic>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2024-05-24</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../name/helper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </date>
+        <participants>100</participants>
+      </edu.lab03__ind.Meeting>
+    </meetings>
+  </edu.lab03__ind.Conference>
+  <edu.lab03__ind.Conference>
+    <name class="javafx.beans.property.SimpleStringProperty">
+      <value>Blockchain Technologies</value>
+      <valid>true</valid>
+      <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+        <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+        <listener class="javafx.beans.WeakInvalidationListener">
+          <ref>
+            <referent class="null"/>
+            <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../edu.lab03__ind.Conference/name/helper/listener/ref/queue"/>
+          </ref>
+        </listener>
+      </helper>
+      <name></name>
+    </name>
+    <location class="javafx.beans.property.SimpleStringProperty">
+      <value>Italy, Milan</value>
+      <valid>true</valid>
+      <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+        <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+        <listener class="javafx.beans.WeakInvalidationListener">
+          <ref>
+            <referent class="null"/>
+            <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../edu.lab03__ind.Conference/name/helper/listener/ref/queue"/>
+          </ref>
+        </listener>
+      </helper>
+      <name></name>
+    </location>
+    <meetings>
+      <edu.lab03__ind.Meeting>
+        <topic class="javafx.beans.property.SimpleStringProperty">
+          <value>Blochchain develop[ement</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../edu.lab03__ind.Conference/name/helper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </topic>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2024-05-10</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../edu.lab03__ind.Conference/name/helper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </date>
+        <participants>241</participants>
+      </edu.lab03__ind.Meeting>
+    </meetings>
+  </edu.lab03__ind.Conference>
+</list>
